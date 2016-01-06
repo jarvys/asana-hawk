@@ -1,0 +1,19 @@
+{
+  "name": "asana-exporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asana": "^0.14.0",
+    "async": "^1.5.1",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1",
+    "promise": "^7.1.1",
+    "underscore": "^1.8.3"
+  }
+}
